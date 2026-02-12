@@ -16,3 +16,11 @@ It performs simple arithmetic operations like addition, subtraction, multiplicat
 ## How to Run
  calculator.py
 
+## Output Screenshot
+## Output Screenshot
+
+![Calculator Output](1.jpg)
+![Calculator Output](2.jpg)
+![Calculator Output](3.jpg)
+![Calculator Output](4.jpg)
+
