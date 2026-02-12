@@ -13,5 +13,5 @@ This is a simple Python command-line calculator.
 - VS Code
 
 # How to Run
-python calculator.py
+ calculator.py
 
