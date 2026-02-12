@@ -1,5 +1,5 @@
 ##Calculator CLI App
-This project is a basic command-line calculator developed using Python as part of my Python Developer Internship task. 
+This task is a basic command-line calculator developed using Python as part of my Python Developer Internship task. 
 It performs simple arithmetic operations like addition, subtraction, multiplication, and division while helping me understand Python functions, loops, and user input handling.
 
 ## Features
