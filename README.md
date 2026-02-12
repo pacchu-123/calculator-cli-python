@@ -17,7 +17,7 @@ It performs simple arithmetic operations like addition, subtraction, multiplicat
  calculator.py
 
 ## Output Screenshot
-## Output Screenshot
+
 
 ![Calculator Output](1.jpg)
 ![Calculator Output](2.jpg)
